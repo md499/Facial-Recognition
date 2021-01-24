@@ -9,3 +9,9 @@ d.	Threshold Frame: For object identification
 
 
 
+face detection folder contains the images and code that creates the four frames using cv2. 
+
+pictures: contain nuemrous sample pictures, and two python files: script1.py and script.py that resize multiple images. 
+
+
+Clone this repo: git clone
