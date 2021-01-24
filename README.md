@@ -14,4 +14,4 @@ face detection folder contains the images and code that creates the four frames 
 pictures: contain nuemrous sample pictures, and two python files: script1.py and script.py that resize multiple images. 
 
 
-Clone this repo: git clone
+Clone this repo: $ git clone https://github.com/md499/Facial-Recognition.git
