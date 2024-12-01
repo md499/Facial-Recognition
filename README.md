@@ -3,6 +3,7 @@
 ## Introduction: Developed a real-time human face and object detection system using a HAAR feature-based cascade classifier with Python and OpenCV, achieving 92% accuracy.
 
 Tools Used: Python, OpenCV
+###
 Open Source Computer Vision based personal project to detect Human Faces and different objects coming in front of the webcam for a specific time frame. 
 Generates four different frames: 
 ##a.	Color Frame: to detect different objects
